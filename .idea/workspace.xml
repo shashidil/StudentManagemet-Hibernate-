@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="509a98e1-3d90-4030-8a5d-c33c196e252e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lk/StudentMgt/Hibernate/View/MainForm.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="509a98e1-3d90-4030-8a5d-c33c196e252e" name="Changes" comment="add commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lk/StudentMgt/Hibernate/Controller/MainFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lk/StudentMgt/Hibernate/Controller/MainFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManagement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lk/StudentMgt/Hibernate/View/MainForm.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2OwncMFp9AIY8mlYpvxiplFdP3u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -39,8 +44,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Java/Hibernate/StudentManagement/lib/mysql-connector.jar",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "D:/Java/Hibernate/StudentManagement/lib/jdbc-connector/mysql-connector-java-8.0.30.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
@@ -54,7 +63,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682480592277</updated>
-      <workItem from="1682480593555" duration="2437000" />
+      <workItem from="1682480593555" duration="4521000" />
+      <workItem from="1682488282478" duration="555000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1682481307738</created>
@@ -63,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682481307738</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add commit">
+      <created>1682485494320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682485494320</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add commit" />
   </component>
 </project>
